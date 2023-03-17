@@ -5,7 +5,7 @@ Faça um programa que calcule e escreva o número de anos necessários para que 
 ultrapasse ou iguale a população do país B, mantidas as taxas de crescimento.*/
 public class Exercicio4_CrescimentoPolulacao {
     public static void main(String[] args) {
-        //país A: habitantes = 8000 ; Crescimento Anual: 3%
+        //país A: habitantes = 80000 ; Crescimento Anual: 3%
         //país B: habitantes = 200000 ; Crescimento Anual: 1.5%
         //Programa: Calcular o nº de anos necessários para A >= B em população.
 
