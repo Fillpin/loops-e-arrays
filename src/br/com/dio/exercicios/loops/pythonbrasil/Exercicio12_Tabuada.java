@@ -20,6 +20,8 @@ public class Exercicio12_Tabuada {
     numTabuada= scan.nextInt();
 
     System.out.println("Tabuada de " + numTabuada + ":");
-        for (i=1; i<=10; System.out.println(numTabuada + " X " + i + " = " + (numTabuada * i++)));
+        for (i=1; i<=10; i++){
+            System.out.println(numTabuada + " X " + i + " = " + (numTabuada * i));
+        };
     }
 }
